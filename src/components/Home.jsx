@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 import pic from "../../public/photo.avif";
 

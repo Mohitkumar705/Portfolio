@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import html from "../../public/html.png";
 import css from "../../public/css.jpg";
 import java from "../../public/java.png";
