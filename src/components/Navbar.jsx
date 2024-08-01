@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import pic from "../../public/photo.avif";
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoCloseSharp } from "react-icons/io5";

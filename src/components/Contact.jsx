@@ -1,5 +1,4 @@
 import axios from "axios";
-// import React from "react";
 import { useForm } from "react-hook-form";
 import toast from "react-hot-toast";
 
@@ -24,7 +23,7 @@ function Contact() {
       console.log(error);
       toast.error("Something went wrong");
     }
-  };
+  };  
   return (
     <>
       <div

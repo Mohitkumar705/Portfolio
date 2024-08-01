@@ -1,8 +1,8 @@
-// import React from "react";
+/* eslint-disable react/no-unescaped-entities */
 
 import pic from "../../public/photo.avif";
 
-import { FaSquareFacebook } from "react-icons/fa6";
+import { FaSquareGithub } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { IoLogoYoutube } from "react-icons/io";
 import { FaTelegram } from "react-icons/fa6";
@@ -50,12 +50,12 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
-                      <FaSquareFacebook className="text-2xl cursor-pointer" />
+                    <a href="https://github.com/Mohitkumar705" target="_blank">
+                      <FaSquareGithub className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/in/mohit-kumar-363965237" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>

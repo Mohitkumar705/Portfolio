@@ -1,4 +1,3 @@
-import React from "react";
 import java from "../../public/java.png";
 import python from "../../public/python.webp";
 import mongoDB from "../../public/mongodb.jpg";

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 // import React from "react";
 
 function About() {
@@ -72,3 +73,4 @@ function About() {
 }
 
 export default About;
+   
